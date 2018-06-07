@@ -1,0 +1,18 @@
+---
+layout: post
+title: The first half year after Gabys birth
+modified: '2005-12-31 T18:17:25.000Z'
+categories: film
+excerpt: ""
+tags:
+  - Gaby
+  - birth
+date: '2005-12-31 T18:17:25.000Z'
+movie1: se_2005_gaby_0-6months
+---
+
+<figure>
+<iframe src="{{ site.commonurl }}/movies/{{ site.data.movies[page.movie1].file }}" width="{{ site.data.movies[page.movie1].width }}" height="{{ site.data.movies[page.movie1].height }}" frameborder="0">
+</iframe>
+<figcaption> {{ site.data.movies[page.movie1].caption }} </figcaption>
+</figure>

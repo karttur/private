@@ -1,0 +1,12 @@
+# Site navigation links
+- title: "Front"
+  url: /
+
+- title: "Movies"
+  url: /film/
+
+- title: "Pictures"
+  url: /photos/
+
+- title: "Search"
+  url: /search/

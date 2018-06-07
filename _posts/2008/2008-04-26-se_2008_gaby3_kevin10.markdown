@@ -1,0 +1,20 @@
+---
+layout: post
+title: Gaby 3 years and Kevin 10 years
+modified: '2008-04-26 T18:17:25.000Z'
+categories: film
+excerpt: ""
+tags:
+  - Kevin
+  - Gaby
+  - Stockholm
+  - birthday
+date: '2008-04-26 T18:17:25.000Z'
+movie1: se_2008_gaby3_kevin10
+---
+
+<figure>
+<iframe src="{{ site.commonurl }}/movies/{{ site.data.movies[page.movie1].file }}" width="{{ site.data.movies[page.movie1].width }}" height="{{ site.data.movies[page.movie1].height }}" frameborder="0">
+</iframe>
+<figcaption> {{ site.data.movies[page.movie1].caption }} </figcaption>
+</figure>
