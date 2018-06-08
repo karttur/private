@@ -7,6 +7,33 @@ se_2005_football_kevin:
     width: 768
     height: 576
 
+se_2005_gaby_0-6months:
+    file: se_2005_gaby_0-6months_web.mp4
+    author: Thomas Gumbricht
+    caption: "The first half year after Gabys birth"
+    credit: null
+    source: null
+    width: 768
+    height: 576
+
+se_2005_gaby_0-6months:
+    file: se_2006_pappaledig_web.mp4
+    author: Thomas Gumbricht
+    caption: "Pappaledig"
+    credit: null
+    source: null
+    width: 768
+    height: 576
+
+se_2006_vardagsscener:
+    file: se_2006_vardagsscener_web.mp4
+    author: Thomas Gumbricht
+    caption: "Vardagsscener"
+    credit: null
+    source: null
+    width: 768
+    height: 576
+
 se_2008_gaby3_kevin10:
     file: se_2008_gaby3_kevin10_web.mp4
     author: Thomas Gumbricht
@@ -65,15 +92,6 @@ se_2011_julita_sommar:
     file: se_2011_julita_sommar-736p.mp4
     author: Thomas Gumbricht
     caption: "Sommar i Julita"
-    credit: null
-    source: null
-    width: 736
-    height: 414
-
-se_2012_Branaes_sportlov:
-    file: se_2012_Branaes_sportlov-736p.mp4
-    author: Thomas Gumbricht
-    caption: "Skiing in Branaes"
     credit: null
     source: null
     width: 736
