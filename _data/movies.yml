@@ -132,3 +132,21 @@ se_2012_stockholm:
     source: null
     width: 736
     height: 414
+
+se_20190928_hkk_pastamaking-736p-crf32:
+    file: se_20190928_hkk_pastamaking-736p-crf32.mp4
+    author: Thomas Gumbricht
+    caption: "Gaby HKK homework"
+    credit: null
+    source: null
+    width: 736
+    height: 414
+
+se_20190928_hkk_pastamaking-736p:
+    file: se_20190928_hkk_pastamaking-736p.mp4
+    author: Thomas Gumbricht
+    caption: "Gaby HKK homework"
+    credit: null
+    source: null
+    width: 736
+    height: 414
