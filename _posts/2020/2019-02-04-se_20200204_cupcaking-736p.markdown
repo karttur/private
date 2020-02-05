@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaby HKK homework - cupcake
-modified: '2020-02-204 T18:17:25.000Z'
+modified: '2020-02-04 T18:17:25.000Z'
 categories: film
 excerpt: "Gaby bakes cupcakes with icing"
 tags:
@@ -10,7 +10,7 @@ tags:
   - Thomas
   - HKK
   - cupcake
-date: '2019-08-28 T18:17:25.000Z'
+date: '2020-02-04 T18:17:25.000Z'
 movie1: se_20200204_cupcaking-736p
 ---
 
