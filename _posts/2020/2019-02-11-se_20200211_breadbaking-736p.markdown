@@ -1,0 +1,21 @@
+---
+layout: post
+title: Gaby HKK homework - baguette
+modified: '2020-02-11 T18:17:25.000Z'
+categories: film
+excerpt: "Gaby bakes baguette"
+tags:
+  - Stockholm
+  - Gaby
+  - Thomas
+  - HKK
+  - baguette
+date: '2020-02-11 T18:17:25.000Z'
+movie1: se_20200211_baguette-736p
+---
+
+<figure>
+<iframe src="{{ site.commonurl }}/movies/{{ site.data.movies[page.movie1].file }}" width="{{ site.data.movies[page.movie1].width }}" height="{{ site.data.movies[page.movie1].height }}" frameborder="0">
+</iframe>
+<figcaption> {{ site.data.movies[page.movie1].caption }} </figcaption>
+</figure>
