@@ -1,0 +1,22 @@
+---
+layout: post
+title: Gaby HKK homework - risgrynsgröt
+categories: film
+excerpt: "Gaby cooks porridge"
+tags:
+  - Stockholm
+  - Gaby
+  - Thomas
+  - HKK
+  - risgrynsgröt
+  - porridge
+date: '2020-04-14 T18:17:25.000Z'
+modified: '2020-04-14 T18:17:25.000Z'
+movie1: se_20200415_risgrynsgroet-736p
+---
+
+<figure>
+<iframe src="{{ site.commonurl }}/movies/{{ site.data.movies[page.movie1].file }}" width="{{ site.data.movies[page.movie1].width }}" height="{{ site.data.movies[page.movie1].height }}" frameborder="0">
+</iframe>
+<figcaption> {{ site.data.movies[page.movie1].caption }} </figcaption>
+</figure>

@@ -168,3 +168,21 @@ se_20200211_baguette-736p:
     source: null
     width: 736
     height: 414
+
+se_20200415_risgrynsgroet-736p:
+    file: se_20200415_risgrynsgroet-736p-crf32.mp4
+    author: Thomas Gumbricht
+    caption: "Gaby HKK homework - risgrynsgröt"
+    credit: null
+    source: null
+    width: 736
+    height: 414
+
+se_20200415_pilaffris-736p:
+    file: se_20200415_pilaffris-736p-crf32.mp4
+    author: Thomas Gumbricht
+    caption: "Gaby HKK homework - pilaffris"
+    credit: null
+    source: null
+    width: 736
+    height: 414
