@@ -2,7 +2,7 @@
 layout: post
 title: Gaby HKK homework - pilaffris
 categories: film
-excerpt: "Gaby cooks porridge"
+excerpt: "Gaby cooks pilaffris"
 tags:
   - Stockholm
   - Gaby

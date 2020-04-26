@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Gaby HKK homework - pilaffris
+title: Gaby HKK homework - rödbetssoppa
 categories: film
-excerpt: "Gaby cooks porridge"
+excerpt: "Gaby cooks borscht"
 tags:
   - Stockholm
   - Gaby
   - Thomas
   - HKK
-  - risgrynsgröt
-  - porridge
-date: '2020-04-15 T18:17:25.000Z'
-modified: '2020-04-15 T18:17:25.000Z'
-movie1: se_20200415_pilaffris-736p
+  - rödbetssoppa
+  - borscht
+date: '2020-04-23 T18:17:25.000Z'
+modified: '2020-04-23 T18:17:25.000Z'
+movie1: se_20200423_borscht-736p
 ---
 
 <figure>
