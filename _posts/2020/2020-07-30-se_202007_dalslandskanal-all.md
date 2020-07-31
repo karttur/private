@@ -50,6 +50,8 @@ share: true
 
 <a href="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4265.jpg"><img src="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4265.jpg" alt="image"></a>
 
+<a href="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4266.jpg"><img src="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4266.jpg" alt="image"></a>
+
 <a href="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4268.jpg"><img src="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4268.jpg" alt="image"></a>
 
 <a href="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4269.jpg"><img src="../../photos/se_202007_dalslandskanal-all/se_202007_dalslandskanal-all_m_DSC_4269.jpg" alt="image"></a>
