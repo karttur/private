@@ -1,0 +1,23 @@
+---
+layout: post
+title: Dalslands kanal, 2020
+categories: film
+excerpt: "Kayaking in Dalsland July 2020."
+tags:
+-  Sweden
+-  Dalsland
+-  Dalslandskanal
+-  Gumbricht
+-  Nelander
+date: 2020-07-30
+modified: 2020-07-30
+comments: true
+share: true
+movie1: se_202007_dalslands-kanal-736p
+---
+
+<figure>
+<iframe src="{{ site.commonurl }}/movies/{{ site.data.movies[page.movie1].file }}" width="{{ site.data.movies[page.movie1].width }}" height="{{ site.data.movies[page.movie1].height }}" frameborder="0">
+</iframe>
+<figcaption> {{ site.data.movies[page.movie1].caption }} </figcaption>
+</figure>

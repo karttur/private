@@ -2,7 +2,7 @@
 layout: post
 title: Viking SI, KSSS 1948
 categories: privatephotos
-except: Viking S1 was the KSSS lottery boat in 2948 and is now mine and sailing under her origina name: Tarzana. 
+except: "Viking S1 was the KSSS lottery boat in 2948 and is now mine and sailing under her original name Tarzana." 
 tags:
  -  Sweden
  -  KSSS

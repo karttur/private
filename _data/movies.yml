@@ -195,3 +195,12 @@ se_20200423_borscht-736p:
     source: null
     width: 736
     height: 414
+
+se_202007_dalslands-kanal-736p:
+    file: se_202007_dalslands-kanal-736p-crf32.mp4
+    author: Thomas Gumbricht
+    caption: "Kayaking in Dalsland July 2020"
+    credit: null
+    source: null
+    width: 736
+    height: 414
