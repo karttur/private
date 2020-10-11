@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Gaby HKK homework - rödbetssoppa
+title: xSpectre elevator pitch 2020
 categories: film
-excerpt: "Gaby cooks borscht"
+excerpt: "xSpectre elevator pitch for Stockholm Innovation"
 tags:
-  - Stockholm
-  - Gaby
-  - Thomas
-  - HKK
-  - rödbetssoppa
-  - borscht
-date: '2020-04-23 T18:17:25.000Z'
-modified: '2020-04-23 T18:17:25.000Z'
+  - xSpectre
+  - pitch
+date: '2020-10-11 T18:17:25.000Z'
+modified: '2020-10-11 T18:17:25.000Z'
 movie1: se_20200423_borscht-736p
 ---
 
