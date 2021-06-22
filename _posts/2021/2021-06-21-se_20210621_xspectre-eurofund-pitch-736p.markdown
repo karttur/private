@@ -1,6 +1,6 @@
 ---
 layout: post
-title: xSpectre elevator pitch June 2021
+title: xSpectre pitch June 2021
 categories: film
 excerpt: "xSpectre pitch for Euro-funding"
 tags:
