@@ -231,3 +231,30 @@ se_202107_stroemsholms-kanal-736p:
       source: null
       width: 736
       height: 414
+
+se_20210628_gaby-skiftar-hjul-736p:
+    file: se_20210628_gaby-skiftar-hjul-736p.mp4
+    author: Thomas Gumbricht
+    caption:  "Gaby byter till sommardäck på SAAB 9-5"
+    credit: null
+    source: null
+    width: 736
+    height: 414
+
+se_20210531_BJG-covid19-736p:
+    file: se_20210531_BJG-covid19-736p.mp4
+    author: Thomas Gumbricht
+    caption:  "Undervsining och arbete hemma under COVOD-19 pandemin 2021"
+    credit: null
+    source: null
+    width: 736
+    height: 414
+
+se_202107_vkv-anita-k2-mahogny-renovering-736p:
+    file: se_202107_vkv-anita-k2-mahogny-renovering-736p.mp4
+    author: Thomas Gumbricht
+    caption:  "Gaby och Thomas renoverar en VKV Anita K2 i mahogny från 1960-talet, som Gaby fick när hon gick ut grundskolan."
+    credit: null
+    source: null
+    width: 736
+    height: 414
