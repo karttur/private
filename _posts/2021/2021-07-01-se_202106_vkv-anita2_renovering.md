@@ -1,7 +1,7 @@
 ---
 layout: post
 title: vkv Anita K2 Mahogany, 2021
-categories: pubphotos
+categories: privatephotos
 excerpt: Not being used for 20 years the upper deck was replaced and the wooden hull sandpapered and varnished.
 tags:
  -  Sweden
