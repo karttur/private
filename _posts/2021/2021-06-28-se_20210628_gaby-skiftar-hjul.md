@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaby fixar hjulbyte
-categories: film
+categories: privatefilm
 excerpt: Gaby byter till sommardäck på SAAB 9-5.
 tags:
  -  Gaby

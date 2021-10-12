@@ -2,7 +2,7 @@
 layout: post
 title: En vanlig vecka
 modified: '2014-04-28 T18:17:25.000Z'
-categories: film
+categories: privatefilm
 excerpt: ""
 tags:
   - Stockholm

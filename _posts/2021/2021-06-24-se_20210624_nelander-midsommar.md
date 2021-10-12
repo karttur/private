@@ -17,7 +17,7 @@ share: true
 
 #### Traditional midsummer party at Nelander "village", Julita socken.
 
-###### Great weather, lovely food and old friends with the Nelander family at Granlund.
+###### Great weather, lovely food and old friends with the Nelander family and friends at Granlund.
 
 <figure class='third'>
 

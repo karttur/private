@@ -2,11 +2,11 @@
 - title: "Front"
   url: /
 
-- title: "Movies"
+- title: "Films"
   url: /film/
 
-- title: "Pictures"
-  url: /photos/
+- title: "Photos"
+  url: /pubphotos/
 
 - title: "Search"
   url: /search/

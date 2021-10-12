@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stroemsholms kanal, 2021
-categories: film
+categories: privatefilm
 excerpt: "Kayaking Stroemsholms kanal July 2021"
 tags:
   - Sweden

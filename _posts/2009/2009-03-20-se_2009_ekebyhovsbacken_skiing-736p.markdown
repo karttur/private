@@ -2,7 +2,7 @@
 layout: post
 title: Skiing at Ekebyhovsbacken
 modified: '2009-03-20 T18:17:25.000Z'
-categories: film
+categories: privatefilm
 excerpt: ""
 tags:
   - Kevin

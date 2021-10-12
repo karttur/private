@@ -2,7 +2,7 @@
 layout: post
 title: Hammarby friidrott
 modified: '2012-06-28 T18:17:25.000Z'
-categories: film
+categories: privatefilm
 excerpt: ""
 tags:
   - Hammarby

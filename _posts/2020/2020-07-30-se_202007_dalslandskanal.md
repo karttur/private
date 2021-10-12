@@ -15,6 +15,9 @@ comments: true
 share: true
 ---
 
+#### Hannah, Ronja, Gaby, Thomas, Liv, Erik and Wilmer kayaking Dalslands kanal in July 2020. Selected photos.
+
+###### Low pressur afer low pressure sailing in from the Atlantic ...
 
 <figure class='third'>
 
