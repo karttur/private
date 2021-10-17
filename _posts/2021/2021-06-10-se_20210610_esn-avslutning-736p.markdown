@@ -1,0 +1,21 @@
+---
+layout: post
+title: Skolavsluting, ESN, 2021
+categories: privatefilm
+excerpt: "Gaby slutar 9an på Engelska Skolan Norr, juni 2021"
+tags:
+  - Sweden
+  - ESN
+  - skolavslutning
+  - Gabriela Gumbricht
+  - 9b
+date: '2021-06-10'
+modified: '2021-06-10'
+movie1: se_202106_esn-avslutning-736p
+---
+
+<figure>
+<iframe src="{{ site.commonurl }}/movies/{{ site.data.movies[page.movie1].file }}" width="{{ site.data.movies[page.movie1].width }}" height="{{ site.data.movies[page.movie1].height }}" frameborder="0">
+</iframe>
+<figcaption> {{ site.data.movies[page.movie1].caption }} </figcaption>
+</figure>
