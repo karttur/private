@@ -267,3 +267,30 @@ se_202106_esn-avslutning-736p:
     source: null
     width: 736
     height: 414
+
+se_202111_hoega-kusten-736p:
+  file: se_202111_hoega-kusten-736p.mp4
+  author: Thomas Gumbricht
+  caption: "Gaby och Thomas på utflykt till Höga kusten, höstlovet (november) 2021."
+  credit: null
+  source: null
+  width: 736
+  height: 414
+
+se_202112_julen-2021-736p:
+  file: se_202112_julen-2021-736p.mp4
+  author: Thomas Gumbricht
+  caption: "Julen 2021 med Gaby och Thomas Gumbricht, Hannah Mosesson var med i Sälen."
+  credit: null
+  source: null
+  width: 736
+  height: 414
+
+se_202112_saelen-736p:
+  file: se_202112_saelen-736p.mp4
+  author: Thomas Gumbricht
+  caption: "Hannah Mosesson, Gaby och Thomas Gumbricht på skidresa till Sälen mellandagarna 2021."
+  credit: null
+  source: null
+  width: 736
+  height: 414
