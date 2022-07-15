@@ -12,7 +12,7 @@ share: true
 ---
 
 
-#### Öljaren juldaten 2021.
+#### Öljaren juldagen 2021.
 
 ###### Skating on Öljaren with the Nelander family.
 
@@ -30,6 +30,6 @@ share: true
 
 <a href="../../photos/se_20211225_skridskor-nelander/se_20211225_skridskor-nelander_m_IMG_20211225_130537_373.jpg"><img src="../../photos/se_20211225_skridskor-nelander/se_20211225_skridskor-nelander_m_IMG_20211225_130537_373.jpg" alt="image"></a>
 
-<figcaption>Öljaren juldaten 2021.</figcaption>
+<figcaption>Öljaren juldagen 2021.</figcaption>
 
 </figure>
