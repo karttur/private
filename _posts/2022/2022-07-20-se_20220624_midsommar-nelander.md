@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sailing with Tarzana to Rånö
+title: Midsommar på Granlund 2022
 categories: privatephotos
-excerpt: Familjen Nelander;Anita och barnen Erik, Johan, Karin, Cecilia, Eva med familjer, och så en massa gäster inklusive Gaby och Thomas.
+excerpt: Familjen Nelander; Anita och barnen Erik, Johan, Karin, Cecilia, Eva med familjer, och så en massa gäster inklusive Gaby och Thomas.
 tags:
  - midsommar
  -  Nelander
@@ -15,7 +15,7 @@ share: true
 
 #### Midsommar på Granlund, Julita med familjen Nelander och vänner.
 
-###### Familjen Nelander;Anita och barnen Erik, Johan, Karin, Cecilia, Eva med familjer, och så en massa gäster inklusive Gaby och Thomas.
+###### Familjen Nelander; Anita och barnen Erik, Johan, Karin, Cecilia, Eva med familjer, och så en massa gäster inklusive Gaby och Thomas.
 
 <figure class='third'>
 
@@ -90,8 +90,6 @@ share: true
 <a href="../../photos/se_20220624_midsommar-nelander/se_20220624_midsommar-nelander_m_DSC_5037.jpg"><img src="../../photos/se_20220624_midsommar-nelander/se_20220624_midsommar-nelander_m_DSC_5037.jpg" alt="image"></a>
 
 <a href="../../photos/se_20220624_midsommar-nelander/se_20220624_midsommar-nelander_m_DSC_5040.jpg"><img src="../../photos/se_20220624_midsommar-nelander/se_20220624_midsommar-nelander_m_DSC_5040.jpg" alt="image"></a>
-
-<a href="../../photos/se_20220624_midsommar-nelander/se_20220624_midsommar-nelander_m_album.jpg"><img src="../../photos/se_20220624_midsommar-nelander/se_20220624_midsommar-nelander_m_album.jpg" alt="image"></a>
 
 <figcaption>Midsommar på Granlund, Julita med familjen Nelander och vänner.</figcaption>
 
