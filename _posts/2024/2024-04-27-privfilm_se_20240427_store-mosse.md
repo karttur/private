@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arbogaån & Hjälmare kanal augusti 2022
+title: Vandring Store Mosse april 2024
 categories: privatefilm
 excerpt: "Vandringshelg i Store Mosse Nationalpark, ordnat av Anette och Erik Nelander."
 tags:
